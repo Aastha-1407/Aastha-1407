@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aastha Sanodiya</h1>
-<h3 align="center">A passionate about Artifical Intelligence and Machine Learning.</h3>
+<h3 align="center">I'm passionate about Artifical Intelligence and Machine Learning.</h3>
 
 - 🔭 I’m currently pursuing B.tech from **LNCT'27**
 
